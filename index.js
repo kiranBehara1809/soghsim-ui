@@ -1,3 +1,1 @@
-import Card from "./components/Card";
-
-export { Card };
+export * from './components/Card'
